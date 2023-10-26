@@ -10,7 +10,7 @@ L'applicazione dispone di alcuni dispositivi bluetooth che condivideranno la pos
 1. Accesso tramite login
 2. Tracciamento attraverso bluetooth dei dispositivi
 3. Condivisione della geolocalizzazione
-4. 
+4. Avviso su possibile smarrimento del dispositivo
 
 ## Requisiti non funzionali
 1. Protezione della privacy
@@ -20,3 +20,6 @@ L'applicazione dispone di alcuni dispositivi bluetooth che condivideranno la pos
 
 ## Requisiti di dominio
 1. L'applicazione sarà utilizzabile da ogni sistema sistema operativo
+
+
+![Diagramma UML](https://yuml.me/diagram/scruffy/usecase/[Amministratore]%5E[Utente],%20[Utente]-(Iscriviti),%20[Utente]-(Abbonati),%20[Utente]-(Connetti%20i%20dispositivi),%20[Utente]-(Ricerca%20gli%20oggetti),%20(Connetti%20i%20dispositivi)-(Ricerca%20gli%20oggetti),%20[Utente]-(Registrazione%20luoghi),%20(Registrazione%20luoghi)%3C(Notifica%20di%20Smarrimento))
