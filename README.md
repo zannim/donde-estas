@@ -4,10 +4,10 @@ Donde Estas ti permette di tener traccia degli spostamenti dei tuoi amici o dell
 
 ## Requisiti funzionali
 Solitamente le persone tendono a smarrire i propri oggetti o a dimenticarli in posti ignoti, ed è qui che entra in gioco la nostra applicazione, che ti permetterà di tenere traccia degli spostamenti e della posizione esatta del dispositivo o del portachiavi bluetooth collegati all'applicazione.
-L'applicazione è compatibile con ogni tipo di localizzatore bluetooth, anche con AirTag Apple®.
+Si avrà la posibilità di connettere un numero di dispositivi in base alla quantità consentita dal proprio abbonamento.
+L'applicazione dispone di alcuni dispositivi bluetooth che condivideranno la posizione con il vostro dispositivo.
 
 ## Requisiti non funzionali
 1. Tracciamento attraverso bluetooth dei dispositivi
 2. Condivisione della geolocalizzazione
 3. Protezione della privacy
-4. 
