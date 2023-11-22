@@ -26,9 +26,9 @@ L'applicazione dispone di alcuni dispositivi bluetooth che condivideranno la pos
 
 1.Pianificazione del Progetto (16%)
 
-1.1 Definizione degli Obiettivi (4%)
-1.2 Identificazione dei Requisiti (4%)
-1.3 Pianificazione delle Risorse (4%)
+1.1 Definizione degli Obiettivi (4%)<br>
+1.2 Identificazione dei Requisiti (4%)<br>
+1.3 Pianificazione delle Risorse (4%)<br>
 1.4 Definizione delle Scadenze (4%)
 
 2.Sviluppo dell'Applicazione (40%)
